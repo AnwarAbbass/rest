@@ -1,0 +1,9 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: rgb(17, 16, 15);
+$font-color : aliceblue;
+header {
+    font: 100% $font-stack;
+    color: $font-color;
+    background-color: $primary-color;
+    text-align: center;
+}
