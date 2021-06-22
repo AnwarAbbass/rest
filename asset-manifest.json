@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resty-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/resty-react/static/js/main.d2ab644d.chunk.js",
+    "main.js.map": "/resty-react/static/js/main.d2ab644d.chunk.js.map",
+    "runtime-main.js": "/resty-react/static/js/runtime-main.aec2c758.js",
+    "runtime-main.js.map": "/resty-react/static/js/runtime-main.aec2c758.js.map",
+    "static/js/2.e1a28d47.chunk.js": "/resty-react/static/js/2.e1a28d47.chunk.js",
+    "static/js/2.e1a28d47.chunk.js.map": "/resty-react/static/js/2.e1a28d47.chunk.js.map",
+    "static/js/3.b924c0ce.chunk.js": "/resty-react/static/js/3.b924c0ce.chunk.js",
+    "static/js/3.b924c0ce.chunk.js.map": "/resty-react/static/js/3.b924c0ce.chunk.js.map",
+    "index.html": "/resty-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/resty-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e1a28d47.chunk.js.LICENSE.txt": "/resty-react/static/js/2.e1a28d47.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/resty-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aec2c758.js",
+    "static/js/2.e1a28d47.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d2ab644d.chunk.js"
+  ]
+}
